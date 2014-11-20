@@ -12,7 +12,7 @@ A plugin to add attachment back as an option in Post Types under Location Rules.
 
 == Description ==
 
-This plugin came about as a need to negate the attachment page for advanced custom fields.  With enough post types on a website, it's easier to negate the pages you don't want fields showing up on, and attachment's page is definitely a page I don't need my new fields showing up on.
+This plugin came about as a need to negate the attachment page for advanced custom fields.  With enough post types on a website, it's easier to negate the post types you don't want fields showing up on, rather than selecting all the post types you want the fields to show up on.
 
 == Installation ==
 
